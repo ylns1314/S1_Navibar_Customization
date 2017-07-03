@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         S1 NaviBar Customization
 // @namespace    http://bbstripe.me/
-// @version      0.7.3
-// @description  remove "八卦体育" and "页游", add "漫区", "PC数码", "游戏" and "黑名单"; Remove 黑名单id的发言提示; 黑球logo的超链从test主页替换为论坛列表
+// @version      0.7.4
+// @description  删除 "八卦体育" 和 "页游", 增加 "漫区", "PC数码", "游戏" 和 "黑名单"; 删除黑名单id的发言提示; 黑球logo的超链从test主页替换为论坛列表
 // @author       Elence_ylns1314
-// @include      /^https?:\/\/(bbs|www)?\.?(stage1|saraba1st|stage1st)\.(cc|com).*/
+// @include      /^https?:\/\/(bbs\.|www\.)?(stage1|saraba1st|stage1st)\.(cc|com).*/
 // @grant        none
 // ==/UserScript==
 
