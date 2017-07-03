@@ -41,7 +41,6 @@ function replace() {
     linkList.appendChild(createLink("PC数码","forum-51-1.html"));
     linkList.appendChild(createLink("游戏","forum-4-1.html"));
     linkList.appendChild(createLink("黑名单","home.php?mod=space&do=friend&view=blacklist"));
-    linkList.appendChild(createLink("你游","thread-1065797-1-1.html"));
     
     /* hide notifications of found users in the black list */
     var hiddenTip = document.getElementById("hiddenpoststip");
